@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Paper"
+  short_description: "Academic review paper structure and visuals"
+  default_prompt: "Use $review-paper to structure my systematic review and improve its tables, figures, charts, and citations."
